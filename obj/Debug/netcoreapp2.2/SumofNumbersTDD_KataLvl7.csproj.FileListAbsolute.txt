@@ -1,0 +1,14 @@
+C:\Users\svsan\SumofNumbersTDD_KataLvl7\SumofNumbersTDD_KataLvl7\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\svsan\SumofNumbersTDD_KataLvl7\SumofNumbersTDD_KataLvl7\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\svsan\SumofNumbersTDD_KataLvl7\SumofNumbersTDD_KataLvl7\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\svsan\SumofNumbersTDD_KataLvl7\SumofNumbersTDD_KataLvl7\bin\Debug\netcoreapp2.2\SumofNumbersTDD_KataLvl7.deps.json
+C:\Users\svsan\SumofNumbersTDD_KataLvl7\SumofNumbersTDD_KataLvl7\bin\Debug\netcoreapp2.2\SumofNumbersTDD_KataLvl7.runtimeconfig.json
+C:\Users\svsan\SumofNumbersTDD_KataLvl7\SumofNumbersTDD_KataLvl7\bin\Debug\netcoreapp2.2\SumofNumbersTDD_KataLvl7.runtimeconfig.dev.json
+C:\Users\svsan\SumofNumbersTDD_KataLvl7\SumofNumbersTDD_KataLvl7\bin\Debug\netcoreapp2.2\SumofNumbersTDD_KataLvl7.dll
+C:\Users\svsan\SumofNumbersTDD_KataLvl7\SumofNumbersTDD_KataLvl7\bin\Debug\netcoreapp2.2\SumofNumbersTDD_KataLvl7.pdb
+C:\Users\svsan\SumofNumbersTDD_KataLvl7\SumofNumbersTDD_KataLvl7\obj\Debug\netcoreapp2.2\SumofNumbersTDD_KataLvl7.csprojAssemblyReference.cache
+C:\Users\svsan\SumofNumbersTDD_KataLvl7\SumofNumbersTDD_KataLvl7\obj\Debug\netcoreapp2.2\SumofNumbersTDD_KataLvl7.csproj.CoreCompileInputs.cache
+C:\Users\svsan\SumofNumbersTDD_KataLvl7\SumofNumbersTDD_KataLvl7\obj\Debug\netcoreapp2.2\SumofNumbersTDD_KataLvl7.AssemblyInfoInputs.cache
+C:\Users\svsan\SumofNumbersTDD_KataLvl7\SumofNumbersTDD_KataLvl7\obj\Debug\netcoreapp2.2\SumofNumbersTDD_KataLvl7.AssemblyInfo.cs
+C:\Users\svsan\SumofNumbersTDD_KataLvl7\SumofNumbersTDD_KataLvl7\obj\Debug\netcoreapp2.2\SumofNumbersTDD_KataLvl7.dll
+C:\Users\svsan\SumofNumbersTDD_KataLvl7\SumofNumbersTDD_KataLvl7\obj\Debug\netcoreapp2.2\SumofNumbersTDD_KataLvl7.pdb
